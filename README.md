@@ -1,44 +1,6 @@
 # Simple-Gmail-Mail-Sender-Using-Automation-Python-Script-
 Simple Gmail Mail Sender is a lightweight Python utility that sends emails using Gmail’s SMTP server. It demonstrates how to securely authenticate using an App Password and send emails programmatically.
 
-This project is ideal for:
-
-Beginners learning email automation
-
-Python SMTP practice
-
-Automation scripts
-
-Notification systems
-
-🎯 Objectives
-
-Demonstrate sending emails via Python
-
-Use Gmail SMTP securely
-
-Provide reusable mail-sending function
-
-Keep implementation simple and readable
-
-🧰 Technologies Used
-
-Python 3.x
-
-smtplib
-
-email.message.EmailMessage
-
-Gmail SMTP Server
-
-📂 Project Structure
-Simple-Gmail-Mail-Sender/
-│
-├── mail_sender.py
-├── README.md
-└── docs/
-    └── report.md
-
 🚀 Simple Gmail Mail Sender
 
 A simple Python script to send emails using Gmail SMTP with App Password authentication.
